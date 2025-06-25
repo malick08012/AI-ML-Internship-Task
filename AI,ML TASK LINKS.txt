@@ -1,0 +1,7 @@
+
+
+1.  https://github.com/malick08012/Exploring-and-Visualizing-a-Simple-Dataset-IRIS-
+
+2.  https://github.com/malick08012/Predict-Future-Stock-Prices-Short-Term-
+
+3.  https://github.com/malick08012/Heart-Disease-Prediction
